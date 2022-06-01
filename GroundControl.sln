@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroundClassLiberary", "GroundClassLiberary\GroundClassLiberary.csproj", "{EB3FD56D-1AFA-45E9-B17E-9C93FDD157D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroundControlGame", "GroundControlGame\GroundControlGame.csproj", "{E1547BBD-F2C2-4930-8CEF-AF6BF72CBD16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB3FD56D-1AFA-45E9-B17E-9C93FDD157D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB3FD56D-1AFA-45E9-B17E-9C93FDD157D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB3FD56D-1AFA-45E9-B17E-9C93FDD157D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB3FD56D-1AFA-45E9-B17E-9C93FDD157D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1547BBD-F2C2-4930-8CEF-AF6BF72CBD16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1547BBD-F2C2-4930-8CEF-AF6BF72CBD16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1547BBD-F2C2-4930-8CEF-AF6BF72CBD16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1547BBD-F2C2-4930-8CEF-AF6BF72CBD16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E7B5CD9-1913-4E5E-83D9-8F6C63F23D7E}
+	EndGlobalSection
+EndGlobal
